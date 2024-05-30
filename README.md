@@ -278,11 +278,11 @@ echo "This is INSTANCE $(hostname). Created on ${current_time}" | sudo tee index
 </p>
 
 <p align="center">
-<img src="launch-template5" height="55%" width="65%"/>
+<img src="https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/launch-template5.png" height="65%" width="75%"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/launch-template6.png" height="55%" width="65%"/>
+<img src="https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/launch-template6.png" height="65%" width="75%"/>
 </p>
 
 <h2 align="left"> Creating Target Group</h2>
@@ -406,9 +406,9 @@ As the average CPU utilization continues to increase, and overwhelms the second 
 <h5 align="center"> More EC2 Instances Created by ASG Based on Group Size Configuration in ASG</h5>
 
 <p align="center">
-<img src="first-instance-by-asg" height="60%" width="70%"/>
+<img src="https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/apach2-working.png" height="60%" width="70%"/>
 </p>
-<h5 align="center"> https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/apach2-working.png</h5>
+<h5 align="center"> ALB Sending Traffic To First EC2 Instance</h5>
 
 <p align="center">
 <img src="https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/second-instance-created-by-asg.png" height="60%" width="70%"/>
@@ -416,6 +416,6 @@ As the average CPU utilization continues to increase, and overwhelms the second 
 <h5 align="center"> ALB Sending Traffic To Second EC2 Instance</h5>
 
 <p align="center">
-<img src="third-instance-created-by-asg" height="60%" width="70%"/>
+<img src="https://github.com/Topzdomain/Accessing-a-Private-Subnet-Without-a-Bastion-Host/blob/main/screenshots/third-instance-created-by-asg.png" height="60%" width="70%"/>
 </p>
 <h5 align="center"> ALB Sending Traffic To Second EC2 Instance</h5>
